@@ -12,7 +12,6 @@ make
 ```
 So it creates the `.dat` file. Then:
 ```
-fortune ways-of-saying"
+fortune ways-of-saying
 ```
 and enjoy!
-
